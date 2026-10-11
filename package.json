@@ -1,7 +1,7 @@
 {
   "name": "guapostore-api",
   "version": "1.0.0",
-  "description": "API simple para GuapoStore",
+  "description": "API para GuapoStore",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
